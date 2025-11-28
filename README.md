@@ -1,2 +1,34 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YoTBkPNl)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21427139&assignment_repo_type=AssignmentRepo)
+# 📌 Exercici: Conjectura de Collatz
+
+## ✅ Descripció
+La **Conjectura de Collatz** diu:
+> Comença amb qualsevol numero positiu. Si és parell, divideix per 2; si és imparell, multiplica per 3 i suma 1. Repetix fins arribar a 1.
+
+Aquest programa:
+- Demana un nombre positiu a l’usuari.
+- Mostra la seqüència completa fins arribar a 1.
+- Indica el nombre total de passos realitzats.
+---
+
+# 🎯 On puc veure la meua nota?
+
+Quan envies el teu codi, la nota es mostra en **dos llocs diferents**:
+
+---
+
+## ✅ 1. A GitHub → *Actions → Classroom Autograding → Summary*
+
+En entrar al Workflow, veuràs un panell amb:
+
+- Test superats  
+- Test totals  
+- Nota final (sobre 10)
+
+Apareix sota l’apartat **Summary**, en un bloc com aquest:
+
+## Resultados
+- Test superats: X
+- Test totals: Y
+- Nota: Z
+
+*(aquesta nota és només orientativa i **no compta per a l’avaluació**).*
